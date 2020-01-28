@@ -1,1 +1,2 @@
-I am master file includes changes realted to master branch
+I am master file includes changes realted to master branch and I am present at newbranch also
+
