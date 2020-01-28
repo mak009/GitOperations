@@ -1,1 +1,3 @@
-I am at new branch
+
+I am with master branch - merge needs to be there
+
