@@ -1,6 +1,9 @@
 
+
 I am with master branch - merge needs to be there
 Please merge me and newbranch with another branch
 
 I am at new branch
+
+
 
